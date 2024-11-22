@@ -1,12 +1,14 @@
-import Home from '@/components/Home/Home'
+import Contact from '@/components/Contact/Contact'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <Home />
+      <Contact />
     </div>
   )
 }
 
 export default page
+
+
